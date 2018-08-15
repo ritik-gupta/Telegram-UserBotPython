@@ -1,11 +1,12 @@
-# Telegram-UserBot 
-[![Build Status](https://semaphoreci.com/api/v1/leviathanaxeislit/telegram-userbot/branches/master/badge.svg)](https://semaphoreci.com/leviathanaxeislit/telegram-userbot)
+# Telegram-UserBotPython
+
 
 Just coz I'm too lazy, I program it, to make stuff easier.
 This is a userbot, which is equivalent to a telegram client, and it can run on the cloud too.
 
 ### Before you start:
 Get your api-id(API_KEY in my code), API_HASH from my.telegram.org.
+Goto site and create an application. You'll get your ApiKey and ApiHash.
 
 #### Running on heroku:
 <b>If you clone/fork this repo please make sure you delete session_name.session and regenerate it by running app.py on your local pc before deploying it on heroku.</b>
@@ -21,7 +22,7 @@ Get your api-id(API_KEY in my code), API_HASH from my.telegram.org.
 - Deploy.
 
 #### Running on linux:
-- Clone my repo: `git clone https://github.com/baalajimaestro/Telegram-UserBot`
+- Clone my repo: `git clone https://github.com/ritik-gupta/Telegram-UserBotPython`
 
 - Add your API_KEY and API_HASH: `export API_HASH=your-api-hash` and `export API_KEY=your-api-id`
 
