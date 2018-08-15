@@ -26,7 +26,10 @@ Goto site and create an application. You'll get your ApiKey and ApiHash.
 
 - Add your API_KEY and API_HASH: `export API_HASH=your-api-hash` and `export API_KEY=your-api-id`
 
+- install required packages by ' pip install -r requirements.txt'
+
 - Start the userbot: `python3 app.py`
+
 
 ### Commands available(incomplete):
  - `.delmsg`:                      Deletes the last typed message
