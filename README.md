@@ -3,14 +3,6 @@
 Just coz I'm too lazy, I program it, to make stuff easier.
 This is a userbot, which is equivalent to a telegram client, and it can run on the cloud too.
 
-# Contact 
-Join the [news channel](https://t.me/maestro_userbot_channel) if you just want to stay in the loop about new features or
-announcements.
-
-If you found any bugs or you wanna suggest some features then contact [My support group](https://t.me/userbot_support).
-
-Alternatively, [find me on telegram](https://t.me/baalajimaestro)!.
-
 ### Before you start:
 Get your api-id(API_KEY in my code), API_HASH from my.telegram.org.<br/><br/>
 **Please read through this before cloning. I don't want you get stuck anywhere. This guide can get you running up the userbot, if followed properly**
@@ -35,7 +27,7 @@ Get your api-id(API_KEY in my code), API_HASH from my.telegram.org.<br/><br/>
 - Deploy.
 
 #### Running on linux:
-- Clone my repo: `git clone https://github.com/baalajimaestro/Telegram-UserBot`
+- Clone my repo: `git clone https://github.com/ritik-gupta/Telegram-UserBotPython
 
 - Install the necessary dependencies by moving to the project directory and running: `pip3 install -r requirements.txt`
 
