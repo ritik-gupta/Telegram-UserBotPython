@@ -1,5 +1,5 @@
 telethon==1.2
-requests==2.18.4
+requests==2.20.0
 gtts==2.0.1
 urbandict==0.5
 gsearch==1.6.0
